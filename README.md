@@ -18,7 +18,7 @@ Automation strategy:
 2. Creating POM(Page Object model) Pages - For writing xpath and action methods.
     - IMDB Page
     - Wiki Page
-3. Creating Test class - using annotaions of TestNG - Writing actual validations of testcases
+3. Creating Test class - using annotations of TestNG - Writing actual validations of testcases
 ------------------------------------------------------------------------------------------------------------
 Test Execution:
 
